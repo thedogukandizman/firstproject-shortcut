@@ -1,0 +1,2 @@
+# firstproject-shortcut
+firstproject@shortcut
